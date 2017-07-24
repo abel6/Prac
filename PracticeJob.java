@@ -8,7 +8,7 @@ public class PracticeJob {
 		
 		for(int i = 1;i<6;i++)
 		{
-			System.out.println(i+". Hello jenkins job!);
+			System.out.println(i+". Hello jenkins job!");
 		}
 		
 
