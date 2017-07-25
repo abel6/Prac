@@ -8,7 +8,7 @@ public class PracticeJob {
 			System.out.println(i+". Hello jenkins job!");
 		}
 		
-		int x = 5;
+		int x = 6;
 		
 		System.out.println("the number for :" + x+" is :"+call(x));
 
